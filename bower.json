@@ -1,0 +1,28 @@
+{
+  "name": "backbone.method-utils",
+  "version": "0.0.0",
+  "homepage": "https://github.com/backbonex/backbone.method-utils",
+  "authors": [
+    "jifeon <balakirev.andrey@gmail.com>",
+    "apsavin <box.for.postman@gmail.com>",
+    "km256 <keyman256@gmail.com>",
+    "heymexa <heymexa@gmail.com>"
+  ],
+  "description": "Backbone extension for convenient use of some underscore methods",
+  "keywords": [
+    "backbone",
+    "redefine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "backbone.redefine": "~0.0.0",
+    "underscore": "1.8.3"
+  }
+}
